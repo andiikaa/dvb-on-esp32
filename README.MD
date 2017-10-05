@@ -22,11 +22,11 @@ But I must say, that it has not the best readability, especially if you look fro
 
 ## Wiring on ESP32
 
-TFT CS       4 
+TFT CS       4
 TFT SCK      18 (SCLK)
 TFT SDA      19 (MOSI)
 TFT RESET    16 
-TFT AO       17 (DC) 
+TFT AO       17 (DC)
 
 For VCC i use the 3,3V provided by the ESP32. 
 For LED i also use the 3,3V output but with an 150Ω resistor.

@@ -2,6 +2,8 @@
 A simple depatures monitor for the 'Dresdner Verkehrsbetriebe AG (DVB)'.
 It uses some APIs listed at [kiliankoe/vvo](https://github.com/kiliankoe/vvo).
 
+[![](https://raw.githubusercontent.com/andiikaa/dvb-on-esp32/master/doc/example-small.png)](https://raw.githubusercontent.com/andiikaa/dvb-on-esp32/master/doc/example.JPG)
+
 The final project just needs a good looking housing.
 
 ## Hardware
